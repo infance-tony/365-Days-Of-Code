@@ -6,7 +6,7 @@ def main():
     
    
     print(my_list)
-    
+    bbb
     # Delete 'eee' from the list
     my_list[1][2].remove('eee')
     
