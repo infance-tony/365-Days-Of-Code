@@ -1,4 +1,4 @@
-def main():
+bbbbdef main():
     # Taking user input
     ,okmijiuh
     user_input = input()
