@@ -9,7 +9,7 @@ def main():
     bbb
     # Delete 'eee' from the list
     my_list[1][2].remove('eee')
-    
+    bbb
   
     print(my_list)
     
