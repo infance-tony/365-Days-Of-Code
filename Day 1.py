@@ -1,6 +1,7 @@
 bbbbdef main():
     # Taking user input
     ,okmijiuh
+okoko
     user_input = input()
 bb
     # Printing the desired output
